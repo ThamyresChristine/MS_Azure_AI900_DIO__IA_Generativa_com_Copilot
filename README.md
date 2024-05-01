@@ -17,24 +17,24 @@ A versão do _Copilot_ que utilizo é o aplicativo para desktop no Windows 10. E
 
 Em uma tarefa fácil, solicitei uma receita de torta de sardinha e o copilot, interagindo comigo como se fosse um humano, fez a busca e informou duas receitas, além das fontes das pesquisas.
 
-<img src="Prints/Img01.png" width="1300" height="850">
+<img src="Prints/Img01.png" width="1305" height="885">
 
 ### Solicitando um exemplo de código
 
 No segundo exemplo, solicitei alguns exemplos de código em PHP, para saber como fazer alguns códigos iniciais e aprender mais da linguagem.O _Copilot_ retornou com excelentes exemplos, desde o básico 'Hello World' até um exemplo com a estrutura de controle 'if-else.
 
-<img src="Prints/Img02.png" width="1300" height="850">
+<img src="Prints/Img02.png" width="1883" height="1031">
 
 ### Solicitando ideias de projetos
 
 Por fim, solicitei ao _Copilot_ alguns exemplos de projetos intermediários na linguagem PHP.Ele realizou uma pesquisa bem parecida com os tradicionais SEO'S. 
 
-<img src="Prints/Img03.png" width="1300" height="850">
+<img src="Prints/Img03.png" width="1324" height="888">
 
 Mas ao clicar na sugestão abaixo 'Você tem algum exemplo de código para compartilhar?' é onde o _Copilot_ mostra seu grande potencial e total diferença nas pesquisas.Ele
 retornou com um exemplo de código praticamente pronto, para um dos projetos citados na pesquisa anteior e informa que é um exemplo simplificado, onde ainda faltam completar algumas partes do código. Mas, para um programador em "apuros" ou para alguém que está aprendendo uma nova linguagem de programação, o _Copilot_ é uma excelente ferramenta, que não substitui o homem, pelo contrário, se torna um aliado na busca por soluções inovadoras.
 
-<img src="Prints/Img04.png" width="1300" height="850">
+<img src="Prints/Img04.png" width="1307" height="886">
 
 ---
 ## Links:
